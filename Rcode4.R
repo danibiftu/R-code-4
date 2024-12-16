@@ -1,4 +1,4 @@
-################################################### R Code for Real Data Application of spatial latent model###########################################################m
+####Bayesian Spatial Rank Likelihood-Based Estimation of Maternal Anemia in Ethiopia###########################################################m
 # Load the LaplacesDemon library
 library("LaplacesDemon")
 # Set seed for reproducibility
